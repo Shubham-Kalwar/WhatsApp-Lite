@@ -33,7 +33,7 @@ A minimal server-rendered web application built with **Node.js**, **Express.js**
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/Shubham-Kalwar/MONGO-EXPRESS.git
+git clone https://github.com/Shubham-Kalwar/WhatsApp-Lite.git
 cd whatsapp-lite-crud-app
 ```
 
@@ -114,7 +114,7 @@ All MongoDB operations are handled using the **Mongoose** ORM for schema validat
 
 **Shubham Kalwar**  
 🔗 [LinkedIn](https://www.linkedin.com/in/shubham-kalwar-b74145339)  
-📬 Contact: (https://github.com/Shubham-Kalwar)
+📬 [Contact](https://github.com/Shubham-Kalwar)
 
 ---
 
